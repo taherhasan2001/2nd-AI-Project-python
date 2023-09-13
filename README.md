@@ -70,10 +70,6 @@ Fig 6: Output Of Training & Testing1.
 
 
 
-
-
-![](dm/Aspose.Words.2a9480e5-3dbc-425a-a5b1-678016584616.009.png)
-
 I hope you enjoy Our report.
 
 Best wishes.
